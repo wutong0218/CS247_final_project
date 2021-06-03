@@ -10,7 +10,6 @@ TONG WU        wutong0218@g.ucla.edu
 
 The dataset is too big to upload, but it can be downloaded here: https://www.kaggle.com/rdoume/beerreviews
 
-[TOC]
 
 #### Models folder:
 This folder contains the models (ipynb and py files) of the project. 
